@@ -1,7 +1,7 @@
 # projetoCCXP
 
-Bom, segue mais um projeto prático de HTML, CSS e JavaScript!
+Well, here's another practical HTML, CSS and JavaScript project!
 
-Projeto desafiador para um "Junior", que começou a 2 Mêses de estudos hahahah, conforme os anteriores Repositório GIT e Deploy Netlify!
+Challenging project for a "Junior", who started 2 months of studies hahahah, as per the previous GIT Repository and Deploy Netlify!
 
-Link do Projeto: https://protejoccxp1.netlify.app/
+Project Link: https://protejoccxp1.netlify.app/
